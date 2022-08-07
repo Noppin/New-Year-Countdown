@@ -1,0 +1,20 @@
+h1{
+    font-size: 1.3rem;
+}
+h2{
+    font-size: 1rem;
+
+}
+h3{
+    font-weight: 200;
+}
+.section .countdown-container .countdown{
+    width: 50px;
+}
+.section .countdown-container .countdown h2{
+    font-size: 1rem;
+}
+
+.section .countdown-container .countdown span{
+    font-size: .65rem;
+}
